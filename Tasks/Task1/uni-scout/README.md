@@ -41,3 +41,7 @@ uni-scout/
 
 ## Tech
 `requests` · `python-dotenv` · `rich` · `dataclasses`
+## Result output: 
+
+<img src="images/photo<img width="2559" height="1599" alt="result screenshot" src="https://github.com/user-attachments/assets/62d742a6-1f49-4450-a32e-076bcf851ca7" />
+.png" width="400">
