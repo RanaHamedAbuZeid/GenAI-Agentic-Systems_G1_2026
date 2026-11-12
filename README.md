@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e88,50:a259ff,100:00f0ff&height=220&section=header&text=GenAI%20%26%20Agentic%20Systems&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=ITI%202026%20%E2%80%A2%20Group%201&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+# 🤖 GenAI & Agentic Systems
+### ITI 2026 • Group 1
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF2E88&center=true&vCenter=true&repeat=true&width=500&lines=Hi%2C+I'm+Rana+%F0%9F%91%8B" alt="Hi, I'm Rana" />
 
 <br/>
 
