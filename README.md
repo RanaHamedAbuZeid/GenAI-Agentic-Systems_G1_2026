@@ -34,8 +34,6 @@ python main.py "Texas"       # search by name
 uni-scout/
 ├── main.py           # API call, University class, rendering
 ├── requirements.txt  # requests, python-dotenv, rich
-├── .env.example      # template for your key
-├── .gitignore        # keeps .env and .venv out of Git
 └── README.md
 ```
 
