@@ -23,17 +23,16 @@
 
 | | |
 |---|---|
-| 🙋‍♀️ **Name** | Rana Hamed AbuZeid |
-| 🎓 **University** | Badya University |
-| 🏛️ **Program** | ITI — GenAI & Agentic Systems |
-| 👥 **Group** | G1 |
-| 🐙 **GitHub** | [@RanaHamedAbuZeid](https://github.com/RanaHamedAbuZeid) |
+|  **Name** | Rana Hamed AbuZeid |
+|  **University** | Badya University |
+|  **Program** | ITI — GenAI & Agentic Systems |
+|  **Group** | G1 |
+|  **GitHub** | [@RanaHamedAbuZeid](https://github.com/RanaHamedAbuZeid) |
 
 </td>
 </tr>
 </table>
 
-> *"Building my way from Python scripts to intelligent agents — and documenting every step here."* ✨
 
 ---
 
@@ -41,20 +40,20 @@
 
 | Week | Topic | Task | Status |
 |:---:|---|---|:---:|
-| **W1** | 🐍 Python Foundations | [🎓 Uni Scout — REST API CLI](Tasks/Task1/uni-scout) | ✅ |
-| **W2** | 🌐 The Generative AI Landscape | — | ⏳ |
-| **W3** | 🛠️ Generative AI for the Developer | — | ⏳ |
-| **W4** | 🤝 AI-Assisted Coding | — | ⏳ |
-| **W5** | 🧩 Building Gen-AI Powered Apps | — | ⏳ |
-| **W7** | 🤖 Agent Foundations | — | ⏳ |
-| **W8** | 🎼 Frameworks & Orchestration | — | ⏳ |
-| **W9** | 👥 Multi-Agent Teams & Landscape | — | ⏳ |
-| **W10** | 🔗 From Chains to Graphs | — | ⏳ |
-| **W11** | 🧰 Tool-Use & MCP | — | ⏳ |
-| **W12** | 📚 Retrieval Science | — | ⏳ |
-| **W13** | 🧠 Agentic RAG | — | ⏳ |
-| **W14** | 🛡️ Defensive Engineering | — | ⏳ |
-| **W15** | 📊 Evaluation & Observability | — | ⏳ |
+| **W1** |  Python Foundations | [🎓 Uni Scout — REST API CLI](Tasks/Task1/uni-scout) | ✅ |
+| **W2** |  The Generative AI Landscape | — | ⏳ |
+| **W3** |  Generative AI for the Developer | — | ⏳ |
+| **W4** |  AI-Assisted Coding | — | ⏳ |
+| **W5** |  Building Gen-AI Powered Apps | — | ⏳ |
+| **W7** |  Agent Foundations | — | ⏳ |
+| **W8** |  Frameworks & Orchestration | — | ⏳ |
+| **W9** |  Multi-Agent Teams & Landscape | — | ⏳ |
+| **W10** |  From Chains to Graphs | — | ⏳ |
+| **W11** |  Tool-Use & MCP | — | ⏳ |
+| **W12** |  Retrieval Science | — | ⏳ |
+| **W13** |  Agentic RAG | — | ⏳ |
+| **W14** |  Defensive Engineering | — | ⏳ |
+| **W15** |  Evaluation & Observability | — | ⏳ |
 
 ---
 
