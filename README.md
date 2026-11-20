@@ -58,32 +58,6 @@
 
 ---
 
-## ⭐ Featured Project
-
-<table>
-<tr>
-<td width="100%">
-
-### 🎓 [Uni Scout](Tasks/Task1/uni-scout)
-A Python CLI that pulls **real university data** from the U.S. Department of Education's **College Scorecard API** and prints a bold, neon-coloured comparison right in the terminal — acceptance rates, tuition, graduation rates and graduate salaries.
-
-`REST API` · `JSON parsing` · `dataclasses` · `virtual env` · `.env secrets` · `rich`
-
-</td>
-</tr>
-</table>
-
----
-
-## 📁 Repository Structure
-
-```
-GenAI-Agentic-Systems_G1_2026/
-└── Tasks/
-    ├── Task1/
-    │   └── uni-scout/      ← W1 · Python foundations
-    ├── Task2/              ← coming soon...
-    └── ...
 ```
 
 ---
