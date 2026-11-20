@@ -62,11 +62,5 @@
 
 ---
 
-### 🚀 Progress
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:a259ff,100:ff2e88&height=120&section=footer" width="100%"/>
 
 **Made with 💜 by Rana Hamed**
-
-</div>
