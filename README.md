@@ -42,7 +42,7 @@
 | Week | Topic | Task | Status |
 |:---:|---|---|:---:|
 | **W1** |  Python Foundations | [🎓 Uni Scout — REST API CLI](Tasks/Task1/uni-scout) | ✅ |
-| **W2** |  The Generative AI Landscape |  [File Uploaded (Tasks/Task 2) | ✅ |
+| **W2** |  The Generative AI Landscape |  [File Uploaded](Tasks/Task 2) | ✅ |
 | **W3** |  Generative AI for the Developer | — | ⏳ |
 | **W4** |  AI-Assisted Coding | — | ⏳ |
 | **W5** |  Building Gen-AI Powered Apps | — | ⏳ |
