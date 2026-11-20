@@ -58,9 +58,5 @@
 
 ---
 
-```
-
----
-
 
 **Made with 💜 by Rana Hamed**
