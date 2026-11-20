@@ -62,11 +62,8 @@
 
 ---
 
-<div align="center">
-
 ### 🚀 Progress
 
-![Progress](https://img.shields.io/badge/Weeks_Completed-1%20%2F%2014-FF2E88?style=for-the-badge)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:a259ff,100:ff2e88&height=120&section=footer" width="100%"/>
 
