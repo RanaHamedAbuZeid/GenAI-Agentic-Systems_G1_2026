@@ -1,0 +1,4 @@
+call,mode,topic,estimated_input_tokens,input_tokens,output_tokens,total_tokens,estimate_diff_pct,input_cost_usd,output_cost_usd,paid_tier_cost_usd,actual_cost_usd,ttft_s,total_time_s,chunks
+1,normal,drinking water in the morning,34,35,29,64,2.86,8.75e-06,4.35e-05,5.225e-05,0.0,,1.03,
+2,normal,learning data structures and algorithms early,35,36,39,75,2.78,9e-06,5.85e-05,6.75e-05,0.0,,6.478,
+3,normal,using Git version control in student projects,36,37,59,96,2.7,9.25e-06,8.85e-05,9.775e-05,0.0,,9.118,

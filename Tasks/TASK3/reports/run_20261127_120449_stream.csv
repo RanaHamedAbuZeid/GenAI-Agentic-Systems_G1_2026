@@ -1,0 +1,4 @@
+call,mode,topic,estimated_input_tokens,input_tokens,output_tokens,total_tokens,estimate_diff_pct,input_cost_usd,output_cost_usd,paid_tier_cost_usd,actual_cost_usd,ttft_s,total_time_s,chunks
+1,stream,drinking water in the morning,34,35,32,67,2.86,8.75e-06,4.8e-05,5.675e-05,0.0,6.145,6.221,3
+2,stream,learning data structures and algorithms early,35,36,37,73,2.78,9e-06,5.55e-05,6.45e-05,0.0,6.816,6.872,3
+3,stream,using Git version control in student projects,36,37,51,88,2.7,9.25e-06,7.65e-05,8.575e-05,0.0,0.771,1.059,4
